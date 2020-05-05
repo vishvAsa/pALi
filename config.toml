@@ -1,0 +1,15 @@
+baseURL = "https://vvasuki.github.io/pALi/"
+languageCode = "en-us"
+title = "संस्कारे विश्वासटिप्पणयः"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_github"
+disablePathToLower = true
+
+[params]
+  githubEditMePathBase = "https://github.com/vvasuki/pALi/edit/master/content/"
+  contactLink = "https://github.com/vvasuki/pALi/issues/new"
+  env = "production"
+  disqusShortcode = "vvasuki-site"
+
+[markup.goldmark.renderer]
+  unsafe= true
