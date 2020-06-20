@@ -3,16 +3,14 @@
 title: भागाः
 contents:
   - url: recdir://
+  - title: तिपिटकम्
+    url: ../tipiTaka/
   - title: प्रकीर्णम्
     contents:
       - title: Tags
         url: /tags/
       - title: Categories
         url: /categories/
-  - title: Notes Home
-    url: https://vvasuki.github.io/notes/
-  - title: काव्यम्
-    url: https://vvasuki.github.io/kAvya/
   - title: Vishvas's home page
     url: https://vvasuki.github.io/
 #  - title: <i class="fas fa-hand-holding-heart"></i>Donate Via Vishvas
