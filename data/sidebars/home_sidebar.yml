@@ -2,9 +2,7 @@
 
 title: भागाः
 contents:
-  - title: तिपिटक
-    contents:
-      - url: recdir://01_tipiTaka/
+  - url: recdir://
   - title: प्रकीर्णम्
     contents:
       - title: Tags
