@@ -6,8 +6,11 @@ publishDir = "build_github"
 disablePathToLower = true
 
 [params]
-  githubEditMePathBase = "https://github.com/vvasuki/pALi/edit/content/"
-  contactLink = "https://github.com/vvasuki/pALi/issues/new"
+  githubEditMePathBase = "https://github.com/vishvAsa/pALi/edit/content/"
+  contactLink = "https://github.com/vishvAsa/pALi/issues/new"
+  env = "production"
+  build_img = "https://github.com/vishvAsa/pALi/actions/workflows/build.yml/badge.svg"
+  build_url = "https://github.com/vishvAsa/pALi/actions/workflows/build.yml"
   fullSearchURL = "/full_search"
   env = "production"
   disqusShortcode = "vvasuki-site"
@@ -18,3 +21,16 @@ disablePathToLower = true
 
 [markup.goldmark.renderer]
   unsafe= true
+
+[markup.highlight]
+  anchorLineNos = false
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ''
+  lineAnchors = ''
+  lineNoStart = 1
+  lineNos = true
+  lineNumbersInTable = true
+  noClasses = true
+  style = 'friendly'
+  tabWidth = 2
