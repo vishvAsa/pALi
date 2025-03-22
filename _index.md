@@ -18,5 +18,4 @@ unicode_script: devanagari
 
 ## Tech details
 ### Building this site
-- This site is built using the hugo static website generator, with the sanskrit-documentation theme; auto-built with wercker, hosted on github.
-- [![wercker status](https://app.wercker.com/status/b015c55135a120000388cb01374f7c01/s/master "wercker status")](https://app.wercker.com/project/byKey/b015c55135a120000388cb01374f7c01)
+- This site is built using the hugo static website generator, with the sanskrit-documentation theme; auto-built and hosted on github.
