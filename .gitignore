@@ -1,7 +1,7 @@
 .wercker
 /resources
 build_github
-build_*
+build_*/*
 *.iml
 *.ipr
 *.iws
