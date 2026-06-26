@@ -14,10 +14,19 @@ So 2nd or 3rd century BC is plausible and there is no particular reason to doubt
 
 This still leaves around four centuries from the time of Buddha until the transcription of the Pāḷi canon.
 
-Source: [TW](https://x.com/Saatvata/status/1890578413678915772)
+## Term
+The existence of an early MIA Buddhist koine is not predicated on the existence of a term "pāli"/"pāḷi".
+The term "pāli" originally signified line (of verse) and even Buddhaghosa uses it to signify "canonical text."
+Moreover, the term "pāli" is attested in the 4th century Dīpavaṃsa as part of the compound "piṭaka-ttaya-pāli," around a century prior to Buddhaghosa.
+The use of the term "Pāḷi" only came to refer to this koine once the term "pāḷi-bhāsā" ("the language [bhāsā] of the canonical texts") was syncopated to simply "Pāḷi."
+
+
 
 ## Not mAgadhI
-Pali does not descend from Old Magadhi. Pali is a liturgical language that is most likely based on a midland dialect such as the Prakrit of Avanti and the Sinhalese Buddhist use of "Magadhi" to refer to Pali was a misnomer.
+Source: [TW](https://x.com/Saatvata/status/1890578413678915772)
+
+Pali does not descend from Old Magadhi. Pali is a liturgical language that is most likely based on a midland dialect such as the Prakrit of Avanti and the Sinhalese Buddhist use of "Magadhi" to refer to Pali was a misnomer. The Sri Lankans originally assumed was Pāḷi was Māgadhī and referred to it as "Māgadhā nirutti," but they were mistaken.
+
 
 You would be aware of the fact that Pali is closer to Shauraseni than Magadhi if you had actually read (and hopefully comprehended) Suniti Kumar Chatterji's "Origin and Development of the Bengali Language." It was based on a midland dialect, but the midland dialect in question must have been a dialect of a Western Prakrit similar to Śaurasenī or the Prakrit inscriptions at Girnar.
 
@@ -56,3 +65,38 @@ abbhiḍaï makkaḍo khukkhuei puṭṭaṃ ca piṭṭei
 While savoring the mustard leaves on the banks/marshes of the river Godā (i.e. Godāvarī), the monkey leaps, emits a "kho kho" sound and strikes his belly.
 
 TL;DR: The word tuppa (or some variant thereof) was likely borrowed into IA from Dravidian in the sense "reddish or rust-like dye" and was later borrowed back into Dravidian from IA in the sense "ghee."
+
+## Palimpest
+The Pāḷi language is a linguistic palimpsest. The internal inconsistencies in Pāḷi phonology & morphology are significant enough to make it highly unlikely that Pāḷi ever existed in a single, localized speech community at one point in time.
+
+I mentioned these points before:
+
+The forms disvā (Skt. dṛṣṭvā́), viditvā (Skt. viditvā́), and cattāri (Skt. catvā́ri) exist alongside one another. It's highly unlikely that speakers of a language randomly applied three completely different phonological rules to a single OIA consonant cluster.
+
+In contrast, Sanskrit "-tvā" is consistently reflexed as "-tpā" in the Gīrnār Edict of Aśoka, e.g. [añ]ñāni ca divyāni rūpāni da[s]sayitpā (Skt. anyā́ni ca divyā́ni rūpā́ṇi darśayitvā́, Rock Edict IV), catpāro rājāno (Skt. catvā́ro rā́jānaḥ, Rock Edict XIII), etc.
+
+The Eastern IA optative siyā (<Skt. syā́t), possibly a Māgadhī relic from a more archaic Eastern IA Buddhist canon, appears alongside Western IA optative assa (<OIA *asyāt): 
+
+kumbhūpamaṃ kāyam imaṃ viditvā  
+nagarūpamaṃ cittam idaṃ ṭhapetvā  
+yodhetha Māraṃ paññāvudhena  
+jitañ ca rakkhe anivesano siyā  
+(Dhammapada)
+"Realizing that this body is [fragile] like a clay pot and securing this mind like a citadel, one should fight Māra with the weapon of wisdom, one should safeguard one's victory, and one should be without lodging (i.e. not settle down)."
+
+"Seyyathāpi , bhikkhave, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā catumahāpathe bilaso vibhajitvā nisinno assa..."
+(Mahāsatipaṭṭhāna-Sutta)
+"Just as, O monks!, a skilled cow-slaughterer or a cow-slaughterer's apprentice, having slaughtered a cow, would be seated at the junction of four great roads after dividing [the cow's flesh] into portions..."
+
+
+The Māgadhī-style nominative singular ending -e (for masc. and neu. a-stems) also survives marginally alongside the standard endings -o (masc.) and -aṃ (neu.):
+"vanappagumbe yathā phussitagge
+gimhānamāse paṭhamasmiṃ gimhe..." (Ratanasutta)
+"ke gandhabbe rakkhase ca nāge
+ke kimpurise cāpi mānuse
+ke paṇḍite sabbakāmade..." (Vidhurapaṇḍitajātaka)
+
+In the Sāmaññaphalasutta, forms exhibiting the "Māgadhī" endings may occasionally be found in the very same formulaic sequence as forms bearing the standard endings:
+
+"katame satta? - pathavīkāyo, apokāyo, tejokāyo, vāyokāyo, sukhe, dukkhe, jīve sattame"  
+"natthi attakāre, natthi parakāre, natthi purisakāre, natthi balaṃ, natthi vīriyaṃ, natthi purisathāmo, natthi purisaparakkamo."
