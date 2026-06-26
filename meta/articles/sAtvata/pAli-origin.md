@@ -2,6 +2,18 @@
 title = "PAli origin"
 +++
 
+Source: [TW](https://x.com/Saatvata/status/2070324654393237855)
+
+While the first attestations of canonical Pāḷi date to the 5th or 6th century AD (viz. the Khin Ba gold leaves from the Pyu capital of Śrīkṣetra), the Pāḷi language preserves features that are vestigial in the Dramatic Prakrits, such as the aorist (e.g. Pāḷi akāsi = Skt. ákārṣīt, Pāḷi ahosi = OIA *ábhauṣīt, Skt. ábhūt, Pāḷi avoca = Skt. ávocat), optative (e.g. kare(yya) = OIA *káret, Skt. kuryā́t), etc.
+
+The Pāḷi language is similar to the language of the Gīrnār Rock Edicts of Aśoka from Jūnāgaṛh.
+
+It is especially close to the language of the Dhanabhūti inscription from Bharhut and the Hāthigumphā inscription of king Khāravela of Kaliṅga.
+
+So 2nd or 3rd century BC is plausible and there is no particular reason to doubt the Sinhalese tradition of the Pāḷi canon being transcribed onto palm leaves during the 1st century BC.
+
+This still leaves around four centuries from the time of Buddha until the transcription of the Pāḷi canon.
+
 Source: [TW](https://x.com/Saatvata/status/1890578413678915772)
 
 ## Not mAgadhI
